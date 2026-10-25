@@ -1,0 +1,2 @@
+cd ~/Desktop
+mkdir Student-Management-System
