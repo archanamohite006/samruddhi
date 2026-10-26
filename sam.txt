@@ -65,3 +65,11 @@ Step 7: Verify Docker Image
 docker images
 Step 8: Run Docker Container
 docker run dockerdemo
+docker ps -a
+Step 10: Verify Using Docker Desktop
+
+1. Open Docker Desktop.
+2. Click Containers.
+3. Find the container created from the dockerdemo image.
+4. Open the container details or logs.
+5. Verify that the output is Hello Docker World.
